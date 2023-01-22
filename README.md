@@ -1,1 +1,1 @@
-# linearmodelprediction
+# linearregressionmodel
